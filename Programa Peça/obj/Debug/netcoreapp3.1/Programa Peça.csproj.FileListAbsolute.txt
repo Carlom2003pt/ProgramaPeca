@@ -1,0 +1,24 @@
+C:\Users\Samsung\source\repos\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.exe
+C:\Users\Samsung\source\repos\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.deps.json
+C:\Users\Samsung\source\repos\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.runtimeconfig.json
+C:\Users\Samsung\source\repos\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.runtimeconfig.dev.json
+C:\Users\Samsung\source\repos\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.dll
+C:\Users\Samsung\source\repos\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.pdb
+C:\Users\Samsung\source\repos\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.dll
+C:\Users\Samsung\source\repos\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.pdb
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.exe
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.deps.json
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.runtimeconfig.json
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.runtimeconfig.dev.json
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.dll
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\bin\Debug\netcoreapp3.1\Programa Peça.pdb
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.csproj.AssemblyReference.cache
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.AssemblyInfoInputs.cache
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.AssemblyInfo.cs
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.dll
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.pdb
+C:\Users\Carlos Marques\source\Antiga\Programa Peça\Programa Peça\obj\Debug\netcoreapp3.1\Programa Peça.genruntimeconfig.cache
